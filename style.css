@@ -1,0 +1,14 @@
+*{
+box-sizing: border-box;
+font-family: sans-serif;
+transition: 300ms;
+scroll-behavior: smooth;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);}
+
+    
